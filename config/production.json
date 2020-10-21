@@ -1,0 +1,11 @@
+{
+    "mongoURI": "mongodb+srv://baskar123:baskar123@cluster0.i10wn.mongodb.net/<dbname>?retryWrites=true&w=majority", 
+
+    "jwtSecret": "mysecrettoken",
+
+    "githubClientId": "9efe35bd26a95b2b244e",
+
+
+    "githubSecret": "9d0d095e87e525bf615b22080ce2c1eb2a96565b"     
+    
+}
